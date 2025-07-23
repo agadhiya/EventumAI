@@ -19,6 +19,8 @@ EventumAI is an intelligent event planning solution leveraging Multi-AI Agents t
 - **OpenAI GPT Models:** Natural language understanding and generation
 - **Serper API & Web Scraping Tools:** For real-time data retrieval and validation
 
+- 
+![Demo GIF](path/to/demo.gif)
 ---
 ## Demo Video
 
