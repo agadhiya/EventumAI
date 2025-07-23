@@ -1,5 +1,5 @@
 # EventumAI
---
+
 EventumAI is an intelligent event planning solution leveraging Multi-AI Agents to streamline the complex tasks of organizing events. This project demonstrates how specialized AI agents can collaboratively handle venue selection, logistics management, and marketing communications — automating and optimizing the event planning process.
 
 
