@@ -20,10 +20,10 @@ EventumAI is an intelligent event planning solution leveraging Multi-AI Agents t
 - **Serper API & Web Scraping Tools:** For real-time data retrieval and validation
 
 ---
-Demo Video
-Watch the demo video to see EventumAI in action:
+## Demo Video
 
-<video width="640" height="360" controls> <source src="demo.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+You can watch the demo video here: [Demo Video](demo.mp4)
+
 ---
 ## Getting Started
 
@@ -37,5 +37,5 @@ Watch the demo video to see EventumAI in action:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/eventumai.git
+   git clone https://github.com/yourusername/EventumAI.git
    cd eventumai
