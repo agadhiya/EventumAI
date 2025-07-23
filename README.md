@@ -20,3 +20,7 @@ EventumAI is an intelligent event planning solution leveraging Multi-AI Agents t
 ## Demo Video
 
 You can watch the demo video here: [Demo Video](demo.mp4)
+
+## Contact
+
+For questions or feedback, connect with me on LinkedIn.
